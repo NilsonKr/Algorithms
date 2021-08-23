@@ -34,7 +34,7 @@ const SAMPLE = [
 	5, 2, 3, 1, 1, 1, 1, 2, 3, 4, 553, 3, 35, 5, 466, 5, 4, 5, 34, 2, 3, 234, 34,
 ];
 
-const sortedArray = mergeSortPractice(SAMPLE);
+const sortedArray = mergeSortPractice(SAMPLE_NEGATIVE);
 
 console.log('Sorted Array');
 for (num of sortedArray) {
